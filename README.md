@@ -8,4 +8,5 @@ This is my project about design a calculator to calculate 2 floating point numbe
 4. FloatingPoing to Decimal
 5. Nth root (use Taylor) - not ready because fail of taylor ln
 6. Reports
+
 Done!!!
