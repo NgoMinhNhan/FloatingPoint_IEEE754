@@ -53,6 +53,8 @@ cong_tru A9(.A(sum8), .B(x_m_9_9), .check_pt(1'b0), .result(sum9));
 cong_tru A10(.A(sum9), .B(x_m_10_10), .check_pt(1'b1), .result(sum10));
 //xuat ket qua
 assign out = (in[30:0] == number_05[30:0])?number_ln05:sum10;
+  
+end
 
 
 
